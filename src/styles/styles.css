@@ -11,6 +11,10 @@
 body {
     background-color:white;
 }
+
+section {
+    padding: 28px 8%;
+}
 /*botão peça já*/
 .btn-default{
     border: none;
