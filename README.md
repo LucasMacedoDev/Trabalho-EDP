@@ -1,5 +1,5 @@
 🌐 Trabalho EDP
-Projeto desenvolvido como parte da disciplina de Equações Diferenciais Parciais (EDP). O objetivo é apresentar um site simples com conteúdo explicativo e visual, com base em conceitos da matéria.
+Projeto desenvolvido como parte da Escola do programador (Universidade Uníntese). O objetivo é apresentar um site simples com conteúdo explicativo e visual, com base em conceitos da matéria.
 
 🔍 Visão Geral
 Este projeto consiste em uma landing page com as seguintes características:
