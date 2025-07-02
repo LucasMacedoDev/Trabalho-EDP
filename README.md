@@ -62,4 +62,5 @@ Nenhuma dependência externa é necessária.
 📚 Uso educacional
 
 🧑‍💻 Programador: Lucas Macedo
-   
+
+GitHub • Instagram
